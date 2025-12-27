@@ -1,2 +1,0 @@
-# Crissjazzycyber
-crissjazzy technologies cybercurious
