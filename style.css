@@ -64,3 +64,31 @@ footer {
   padding: 1.5rem;
   font-size: 0.9rem;
 }
+/* ===== DARK MODE ===== */
+body.dark {
+  background: #020617;
+  color: #e5e7eb;
+}
+
+body.dark h1,
+body.dark h2,
+body.dark h3 {
+  color: #f8fafc;
+}
+
+body.dark p {
+  color: #cbd5f5;
+}
+
+body.dark .post {
+  background: #020617;
+  box-shadow: 0 12px 30px rgba(255, 255, 255, 0.04);
+}
+
+body.dark a {
+  color: #38bdf8;
+}
+
+body.dark footer {
+  background: #000000;
+}
