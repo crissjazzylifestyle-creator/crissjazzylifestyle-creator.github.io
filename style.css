@@ -92,3 +92,23 @@ body.dark a {
 body.dark footer {
   background: #000000;
 }
+/* ===== THEME TOGGLE BUTTON ===== */
+#theme-toggle {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  background: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 999px;
+  padding: 0.6rem 0.9rem;
+  cursor: pointer;
+  font-size: 1rem;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+  z-index: 999;
+}
+
+body.dark #theme-toggle {
+  background: #38bdf8;
+  color: #020617;
+}
